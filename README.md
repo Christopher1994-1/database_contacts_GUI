@@ -17,6 +17,7 @@ right frame submit button puts the contact information you select and puts it on
 When you select a contact and hit the edit button a new window pops up with entries with the data you selected already in those entries.
 The close button is disabled, the submit button updates your changes in real time.
 
+![](images/image4_edit_button_red.JPG)
 ![](images/image4_edit_button_red2.JPG)
 
 When you select a contact and click the delete button, that data is removed from the database and taken off the list in real time.
