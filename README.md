@@ -18,6 +18,7 @@ When you select a contact and hit the edit button a new window pops up with entr
 The close button is disabled, the submit button updates your changes in real time.
 
 ![](images/image4_edit_button_red.JPG)
+After the change
 ![](images/image4_edit_button_red2.JPG)
 
 When you select a contact and click the delete button, that data is removed from the database and taken off the list in real time.
