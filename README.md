@@ -4,7 +4,7 @@ This is a Python tkinter GUI program that uses a local database to store contect
 
 This first image is what the GUI looks like without any data inside it.
 
-![](image1_no_data.JPG)
+![img](image1_no_data.JPG)
 
 left frame submit button takes what you type into the entries and adds them to a local database and then the entries get erased for the next entry and updates database in real time.
 
