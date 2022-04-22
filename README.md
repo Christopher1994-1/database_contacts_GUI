@@ -8,18 +8,18 @@ This first image is what the GUI looks like without any data inside it.
 
 left frame submit button takes what you type into the entries and adds them to a local database and then the entries get erased for the next entry and updates database in real time.
 
-image2
+![](images/image2_red_sub_bttn.JPG)
 
 right frame submit button puts the contact information you select and puts it on the bottom of the GUI 
 
-image3
+![](images/images3_added_data_red_sub.JPG)
 
 When you select a contact and hit the edit button a new window pops up with entries with the data you selected already in those entries.
 The close button is disabled, the submit button updates your changes in real time.
 
-image4
+![](images/image4_edit_button_red2.JPG)
 
 When you select a contact and click the delete button, that data is removed from the database and taken off the list in real time.
 
-image5
+![](images/image5_jane_delete.JPG)
  
